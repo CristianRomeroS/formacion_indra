@@ -1,1 +1,1 @@
-alert('hola desde app.js');
+console.log('hola desde app.js');
